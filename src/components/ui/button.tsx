@@ -15,6 +15,9 @@ const buttonVariants = cva(
         secondary: "bg-secondary text-secondary-foreground hover:bg-secondary/80",
         ghost: "hover:bg-accent hover:text-accent-foreground",
         link: "text-primary underline-offset-4 hover:underline",
+        campus: "bg-gradient-to-r from-campus-blue to-campus-blue-dark text-primary-foreground hover:shadow-lg hover:scale-105 transition-all duration-300",
+        "campus-outline": "border-2 border-campus-blue text-campus-blue bg-transparent hover:bg-campus-blue hover:text-primary-foreground transition-all duration-300",
+        "quick-action": "bg-campus-gray-light text-campus-blue hover:bg-campus-blue-light transition-all duration-200",
       },
       size: {
         default: "h-10 px-4 py-2",
