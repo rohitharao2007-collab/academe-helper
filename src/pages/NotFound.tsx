@@ -32,7 +32,7 @@ const NotFound = () => {
           >
             <a href="/">
               <Home className="mr-2 h-5 w-5" />
-              Return to Campus Assistant
+              Return to CampusPal
             </a>
           </Button>
           

@@ -28,9 +28,9 @@ export function HeroSection({ onStartChat }: HeroSectionProps) {
         </div>
 
         <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-          Your Campus
+          Meet
           <span className="bg-gradient-to-r from-white to-primary-glow bg-clip-text text-transparent">
-            {" "}AI Assistant
+            {" "}CampusPal
           </span>
         </h1>
 

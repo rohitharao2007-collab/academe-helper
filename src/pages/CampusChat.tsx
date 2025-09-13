@@ -45,7 +45,7 @@ export default function CampusChat() {
               <span>💻 IT Support: (555) 123-TECH</span>
             </div>
             <p className="text-muted-foreground text-sm">
-              Campus AI Assistant • Available 24/7 • Powered by AI Technology
+              CampusPal • Available 24/7 • Powered by AI Technology
             </p>
           </div>
         </footer>

@@ -24,7 +24,7 @@ export function ChatInterface() {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: "welcome",
-      text: "Hello! I'm your Campus Assistant. I can help you with schedules, facilities, dining, library services, and administrative procedures. What would you like to know?",
+      text: "Hello! I'm CampusPal, your friendly campus companion! I can help you with schedules, facilities, dining, library services, and administrative procedures. What would you like to know?",
       isBot: true,
       timestamp: new Date(),
     },
